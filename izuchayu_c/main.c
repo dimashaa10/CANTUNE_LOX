@@ -283,7 +283,7 @@ void museum() {
 				break;
 			}
 		}
-
+		
 		void buyfishki() {
 			money();
 			printf("Сколько вы хотите купить фишек? - 1 фишка 10 рублей\n");
